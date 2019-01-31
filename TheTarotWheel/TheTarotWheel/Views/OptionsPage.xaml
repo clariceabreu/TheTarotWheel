@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             Title="{Binding Title}" 
+             x:Class="TheTarotWheel.Views.OptionsPage">
+    <StackLayout>
+        <Image Source="{Binding SelectedCard}"
+               HorizontalOptions="CenterAndExpand"
+               Margin="10"
+               HeightRequest="250"
+               x:Name="card"/>
+        
+        <Button Text="Desenvolvimento Pessoal"
+                BackgroundColor="#7851a9"
+                TextColor="Black"
+                BorderColor="Black"
+                Command="{Binding PersonalDevelopmentTapped}"
+                Margin="10,2"/>
+        <Button Text="Profissional"
+                BackgroundColor="#00B2FF"
+                TextColor="Black"
+                BorderColor="Black"
+                Command="{Binding ProfessionalTapped}"
+                Margin="10,2"/>
+        <Button Text="Afetivo"
+                BackgroundColor="#f54029"
+                TextColor="Black"
+                BorderColor="Black"
+                Command="{Binding AffectiveTapped}"
+                Margin="10,2"/>
+        <Button Text="Financeiro"
+                BackgroundColor="#eead2d"
+                TextColor="Black"
+                BorderColor="Black"
+                Command="{Binding FinancialTapped}"
+                Margin="10,2"/>
+        <Button Text="Físico/Saúde"
+                BackgroundColor="Green"
+                TextColor="Black"
+                BorderColor="Black"
+                Command="{Binding HealthTapped}"
+                Margin="10,2"/>
+        <Button Text="Sim ou não"
+                TextColor="Black"
+                BorderColor="Black"
+                BackgroundColor="#34495e"
+                Command="{Binding YesOrNoTapped}"
+                Margin="10,2,10,10"/>
+    </StackLayout>
+</ContentPage>

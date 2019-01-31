@@ -1,0 +1,14 @@
+/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/bin/Debug/netstandard2.0/TheTarotWheel.deps.json
+/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/bin/Debug/netstandard2.0/TheTarotWheel.dll
+/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/bin/Debug/netstandard2.0/TheTarotWheel.pdb
+/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/obj/Debug/netstandard2.0/Views/OptionsPage.xaml.g.cs
+/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/obj/Debug/netstandard2.0/TheTarotWheel.csproj.CoreCompileInputs.cache
+/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/obj/Debug/netstandard2.0/TheTarotWheel.AssemblyInfoInputs.cache
+/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/obj/Debug/netstandard2.0/TheTarotWheel.AssemblyInfo.cs
+/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/obj/Debug/netstandard2.0/TheTarotWheel.dll
+/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/obj/Debug/netstandard2.0/TheTarotWheel.pdb
+/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/obj/Debug/netstandard2.0/TheTarotWheel.csprojAssemblyReference.cache
+/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/obj/Debug/netstandard2.0/Views/ResultPage.xaml.g.cs

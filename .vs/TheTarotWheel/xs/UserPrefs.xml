@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{2959BCA9-E696-4AE6-BC8B-4C9471A9AAB8}|Default">
+  <MonoDevelop.Ide.ItemProperties.TheTarotWheel.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.28D1FFF0-AF16-4F0A-8831-19BFF95BE418" />
+  <MonoDevelop.Ide.ItemProperties.TheTarotWheel.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheTarotWheel/TheTarotWheel/ViewModels/MainPageViewModel.cs">
+    <Files>
+      <File FileName="TheTarotWheel/TheTarotWheel/ViewModels/ResultPageViewModel.cs" Line="50" Column="40" />
+      <File FileName="TheTarotWheel/TheTarotWheel/ViewModels/OptionsPageViewModel.cs" Line="78" Column="1" />
+      <File FileName="TheTarotWheel/TheTarotWheel/ViewModels/MainPageViewModel.cs" Line="54" Column="1" />
+      <File FileName="TheTarotWheel/TheTarotWheel/Views/OptionsPage.xaml.cs" Line="22" Column="17" />
+      <File FileName="TheTarotWheel/TheTarotWheel/Views/OptionsPage.xaml" Line="47" Column="42" />
+      <File FileName="TheTarotWheel/TheTarotWheel/Views/ResultPage.xaml" Line="32" Column="1" />
+      <File FileName="TheTarotWheel/TheTarotWheel/Views/MainPage.xaml" Line="19" Column="30" />
+      <File FileName="TheTarotWheel/TheTarotWheel/Views/MainPage.xaml.cs" Line="35" Column="17" />
+      <File FileName="TheTarotWheel/TheTarotWheel.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/ViewModels/OptionsPageViewModel.cs" relfile="TheTarotWheel/TheTarotWheel/ViewModels/OptionsPageViewModel.cs" line="78" column="1" />
+      <Breakpoint file="/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/ViewModels/ResultPageViewModel.cs" relfile="TheTarotWheel/TheTarotWheel/ViewModels/ResultPageViewModel.cs" line="32" column="1" />
+      <Breakpoint file="/Users/clariceabreu/Projects/TheTarotWheel/TheTarotWheel/TheTarotWheel/ViewModels/ResultPageViewModel.cs" relfile="TheTarotWheel/TheTarotWheel/ViewModels/ResultPageViewModel.cs" line="53" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
